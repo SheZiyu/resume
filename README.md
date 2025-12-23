@@ -10,7 +10,7 @@
 ## LANGUAGES
 
 - **English:** Advanced (C1)
-- **Chinese (Mandarin):** Native 
+- **Chinese:** Native 
 
 ---
 
@@ -117,11 +117,11 @@ Ph.D. Candidate at the University of Basel specializing in artificial intelligen
 
 ## HONORS AND AWARDS
 
-- 2014.09-2021.06 Five Times of Outstanding Student Scholarship (top 5%)
-- 2019.12 **Second Class of National College Mathematics Contest (Top 5%)**
-- 2019.12 Second Class of the National College English Contest (Top 5%)
-- 2016.01 **First class of Guangdong Automation Experimental Skill Contest (top 1%)**
-- 2015.04 S Class of the American Mathematical Modeling Contest
+- 09/2014 - 06/2021 Five Times of Outstanding Student Scholarship (top 5%)
+- 12/2019 **Second Class of National College Mathematics Contest (Top 5%)**
+- 12/2019 Second Class of the National College English Contest (Top 5%)
+- 01/2016 **First class of Guangdong Automation Experimental Skill Contest (top 1%)**
+- 04/2015 S Class of the American Mathematical Modeling Contest
 
 ---
 
