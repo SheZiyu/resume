@@ -9,8 +9,8 @@
 
 ## LANGUAGES
 
-- **English:** C1 - Advanced (C1)
-- **Chinese (Mandarin):** Native - Native
+- **English:** Advanced (C1)
+- **Chinese (Mandarin):** Native 
 
 ---
 
