@@ -1,9 +1,9 @@
 # ZIYU SHE
 <img width="130" height="175" alt="image" src="https://github.com/user-attachments/assets/00dc9f49-95e0-4b2d-9d8a-deee5cb733f6" />
 
-**Location:** 4056, Basel Switzerland  
-**Phone:** +41772241767  
-**Email:** ziyu.she@unibas.ch
+- **Location:** 4056, Basel Switzerland  
+- **Phone:** +41772241767  
+- **Email:** ziyu.she@unibas.ch
 
 ---
 
@@ -24,7 +24,7 @@
 
 ## PERSONAL SUMMARY
 
-Ph.D. Candidate at the University of Basel specializing in artificial intelligence and machine learning, with a focus on advancing **drug discovery through physics-based deep learning techniques**. Demonstrated expertise in optimizing complex systems and fostering collaboration to drive significant research outcomes in **medical imaging and robotics**.
+- Ph.D. Candidate at the University of Basel specializing in artificial intelligence and machine learning, with a focus on advancing **drug discovery through physics-based deep learning techniques**. Demonstrated expertise in optimizing complex systems and fostering collaboration to drive significant research outcomes in **medical imaging and robotics**.
 
 ---
 
