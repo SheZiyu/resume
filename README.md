@@ -1,6 +1,4 @@
 # ZIYU SHE
-<img width="130" height="175" alt="image" src="https://github.com/user-attachments/assets/07e82ffd-d9e0-4210-9a3a-f0a18d970779" />
-
 **Location:** 4056, Basel Switzerland  
 **Phone:** +41772241767  
 **Email:** ziyu.she@unibas.ch
