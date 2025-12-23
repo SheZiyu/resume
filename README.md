@@ -42,7 +42,7 @@ Ph.D. Candidate at the University of Basel specializing in artificial intelligen
 
 ## EXPERIENCE
 
-### PH.D. CANDIDATE, 11/2023 - 11/2027
+### PH.D. CANDIDATE, 12/2023 - 11/2027
 **University of Basel**
 
 - Leveraged physics-based deep learning for drug discovery by integrating normalizing flows, SMC, and pocket-conditioned generative models with molecular simulation and energy functions to enhance sampling, free-energy estimation, and ligand design.
@@ -65,7 +65,7 @@ Ph.D. Candidate at the University of Basel specializing in artificial intelligen
 
 ## PERSONAL INFORMATION
 
-- **Date of birth:** 11/16/95
+- **Date of birth:** 11/16/1995
 - **Gender:** Female
 - **Nationality:** Chinese
 - **Hobby:** tennis, traveling, reading
@@ -74,19 +74,19 @@ Ph.D. Candidate at the University of Basel specializing in artificial intelligen
 
 ## EDUCATION
 
-### University of Basel, Expected in 11/2027
+### University of Basel, 12/2023 - 11/2027
 **Ph.D.: Computer Science**
 - Physics-based Deep Learning for Drug Design
 
 ---
 
-### Polytechnic University of Milan, Switzerland, 04/2023
+### Polytechnic University of Milan, 11/2021 - 04/2023
 **MSc: Computer Vision**
 - Non-rigid 3D Reconstruction, Neural Rendering, Self-supervised Learning
 
 ---
 
-### Sun Yat-sen University, 06/2021
+### Sun Yat-sen University, 09/2018 - 06/2021
 **MSc: Applied Mathematics**
 - Differential Geometry, Differential Manifold, Soliton Equation and Integrable System, Partial Differential Equation
 - **Outstanding Master Thesis:** https://github.com/SheZiyu?tab=repositories
@@ -94,7 +94,7 @@ Ph.D. Candidate at the University of Basel specializing in artificial intelligen
 
 ---
 
-### Guangdong University of Technology, 06/2018
+### Guangdong University of Technology, 09/2014 - 06/2018
 **BSc: Applied Statistics**
 - Advanced Algebra, Analytic Geometry, Probability Theory
 - **GPA:** 3.13/4
